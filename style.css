@@ -1,11 +1,23 @@
 
 body
 {
-    background-color:rgb(0, 255, 38);
+    background-color:rgb(37, 36, 36);
     text-emphasis-color: red;
 }
     
 h1{
     text-align: center;
+    -webkit-text-fill-color: white;
 }
-
+h6{
+    -webkit-text-fill-color: white;
+}
+li{
+    -webkit-text-fill-color: white;
+}
+p{
+    -webkit-text-fill-color: rgb(255, 255, 255);
+}
+h3{
+    -webkit-text-fill-color: white;
+}
